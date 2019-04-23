@@ -1,1 +1,1 @@
-# Smart contracts dataset.
+# Smart contracts data set.
