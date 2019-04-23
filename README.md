@@ -1,1 +1,1 @@
-# smartcontracts
+# Smart contracts dataset.
